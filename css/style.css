@@ -1,0 +1,11 @@
+html{
+  background: linear-gradient(to left, black, yellow);
+}
+
+h1, h4{
+  color: black;
+  font-family: 'Bangers';
+}
+body{
+  font-family: 'Heebo';
+}
